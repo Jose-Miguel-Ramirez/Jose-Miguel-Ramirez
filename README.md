@@ -48,8 +48,8 @@ I am currently in my third year at the **Universidad José Cecilio del Valle (UJ
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jose-Miguel-Ramirez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Miguel-Ramirez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9" alt="Top Languages" />
 </div>
 
 ---
