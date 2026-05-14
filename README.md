@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there! I'm Jose Miguel Ramirez 👋</h1>
   <h3>Full-Stack Developer | Local AI & Hardware Enthusiast | Infotechnology Engineering Student</h3>
-  <p>Building solutions from San Jeronimo, Comayagua.</p>
+  <p>Building solutions from Honduras.</p>
 </div>
 
 ---
