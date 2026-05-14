@@ -60,7 +60,7 @@ I am currently in my third year at the **Universidad José Cecilio del Valle (UJ
   <a href="mailto:mr9245111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/www.linkedin.com/in/jose-miguel-ramírez-marcia-49a40a353" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/jose-miguel-ramírez-marcia-49a40a353" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
