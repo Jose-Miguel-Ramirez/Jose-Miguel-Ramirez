@@ -45,11 +45,11 @@ I am currently in my third year at the **Universidad José Cecilio del Valle (UJ
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Actividad
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jose-Miguel-Ramirez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9)](https://github.com/Jose-Miguel-Ramirez)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Miguel-Ramirez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9)](https://github.com/Jose-Miguel-Ramirez)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Jose-Miguel-Ramirez&theme=tokyonight&hide_border=true&background=0f172a&ring=0ea5e9&fire=0ea5e9" alt="GitHub Streak" />
+</p>
 
 ---
 
